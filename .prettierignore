@@ -1,0 +1,14 @@
+.gitlab-ci.yml
+README.md
+public/index.html
+src/index.css
+src/data.json
+src/
+.env
+.dockerignore
+Dockerfile
+c1-deploy.yaml
+data/
+config/
+public/
+package.json
